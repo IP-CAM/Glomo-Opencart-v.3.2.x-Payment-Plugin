@@ -10,7 +10,7 @@ The plugin allows you to use Glomo Money payment gateway with the Opencart plugi
 
 ### Installation
 
-* Upload the module file [opencart-glomo2.9.ocmod.zip](https://github.com/glomoapp/glomo_prestashop_payment_plugin/blob/master/opencart-glomo2.9.ocmod.zip) via _Extensions_ -> _Extension Installer_
+* Upload the module file [opencart-glomo2.9.ocmod.zip](https://github.com/glomoapp/glomo_prestashop_payment_plugin/blob/master/https://github.com/glomoapp/glomo_opencart_payment_plugin/blob/master/opencart-3-payment-module-master.zip) via _Extensions_ -> _Extension Installer_
 * Activate the module in payment extensions (_Extensions_ -> _Payments_)
 * Configure the module settings:
   * App Id
