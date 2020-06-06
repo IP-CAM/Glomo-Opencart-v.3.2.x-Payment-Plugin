@@ -1,1 +1,1 @@
-# glomo_-opencart_payment_plugin
+# glomo_opencart_payment_plugin
